@@ -1,5 +1,7 @@
-Total: 3 reportes
+Total: 4 reportes
 
+16/10 05:05  Bug visual · Playa y mar
+   "holaaaaa"
 16/10 04:52  Audio · Lago
    "se satura el audio"
 16/10 04:36  Me caí del mapa · Piscina
