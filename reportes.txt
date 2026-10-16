@@ -1,5 +1,7 @@
-Total: 2 reportes
+Total: 3 reportes
 
+16/10 04:52  Audio · Lago
+   "se satura el audio"
 16/10 04:36  Me caí del mapa · Piscina
    "Prueba 2 desde una URL del panel - se puede borrar"
 16/10 04:19  Otro · Otro lugar
