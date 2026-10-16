@@ -1,4 +1,6 @@
-Total: 1 reportes
+Total: 2 reportes
 
+16/10 04:36  Me caí del mapa · Piscina
+   "Prueba 2 desde una URL del panel - se puede borrar"
 16/10 04:19  Otro · Otro lugar
    "Prueba de conexión - se puede borrar"
