@@ -1,10 +1,12 @@
-Total: 4 reportes
+Total: 5 reportes
 
+16/10 23:09  Otro · Otro lugar
+   (con comentario para el creador)
 16/10 05:05  Bug visual · Playa y mar
-   "holaaaaa"
+   (con comentario para el creador)
 16/10 04:52  Audio · Lago
-   "se satura el audio"
+   (con comentario para el creador)
 16/10 04:36  Me caí del mapa · Piscina
-   "Prueba 2 desde una URL del panel - se puede borrar"
+   (con comentario para el creador)
 16/10 04:19  Otro · Otro lugar
-   "Prueba de conexión - se puede borrar"
+   (con comentario para el creador)
