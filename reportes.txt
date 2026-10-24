@@ -1,5 +1,6 @@
-Total: 7 reportes
+Total: 8 reportes
 
+24/10 08:04  Bug visual · Cabaña
 21/10 05:50  Audio · Bar
    (con comentario para el creador)
 16/10 23:38  Otro · Otro lugar
