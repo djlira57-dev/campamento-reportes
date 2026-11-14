@@ -1,5 +1,7 @@
-Total: 8 reportes
+Total: 9 reportes
 
+14/11 08:16  Bug visual · Playa y mar
+   (con comentario para el creador)
 24/10 08:04  Bug visual · Cabaña
 21/10 05:50  Audio · Bar
    (con comentario para el creador)
@@ -12,6 +14,4 @@ Total: 8 reportes
 16/10 04:52  Audio · Lago
    (con comentario para el creador)
 16/10 04:36  Me caí del mapa · Piscina
-   (con comentario para el creador)
-16/10 04:19  Otro · Otro lugar
    (con comentario para el creador)
