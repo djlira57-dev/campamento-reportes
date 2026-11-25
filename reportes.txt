@@ -1,5 +1,7 @@
-Total: 14 reportes
+Total: 15 reportes
 
+25/11 04:07  Bug visual · Playa y mar
+   (con comentario para el creador)
 25/11 04:00  Me caí del mapa · Lago
    (con comentario para el creador)
 25/11 03:54  Bug visual · Cabaña
@@ -9,5 +11,3 @@ Total: 14 reportes
 14/11 08:16  Bug visual · Playa y mar
    (con comentario para el creador)
 24/10 08:04  Bug visual · Cabaña
-21/10 05:50  Audio · Bar
-   (con comentario para el creador)
