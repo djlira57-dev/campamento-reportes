@@ -1,15 +1,1 @@
-Total: 18 reportes
-
-26/11 04:27  Otro · Otro lugar
-   (con comentario para el creador)
-26/11 04:18  Bug visual · Playa y mar
-   (con comentario para el creador)
-26/11 04:15  Algo no funciona · Piscina
-   (con comentario para el creador)
-25/11 04:07  Bug visual · Playa y mar
-   (con comentario para el creador)
-25/11 04:00  Me caí del mapa · Lago
-   (con comentario para el creador)
-25/11 03:54  Bug visual · Cabaña
-23/11 07:00  Bug visual · Piscina
-21/11 02:49  Algo no funciona · Otro lugar
+Todavía no hay reportes. ¡Todo funciona!
