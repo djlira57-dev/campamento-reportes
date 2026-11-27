@@ -1,4 +1,4 @@
 # Roles externos · Campamento Spanish (rol<TAB>nombre)
 Moderador	Kimmy0419
 Staff	Hikariryuu17
-Staff	Lowsoff
+Moderador	Lowsoff
